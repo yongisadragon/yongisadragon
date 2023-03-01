@@ -1,12 +1,14 @@
 ## 🐉 Yong is Dragon 🐉
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=white" />
+<div align="center">   
+  
+### 💡SKILLS💡
+         
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" />  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongisadragon&count_bg=%23FFA1A7&title_bg=%237A7A7A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/yongisadragon)
+
 </div>
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
