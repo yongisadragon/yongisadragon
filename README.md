@@ -1,5 +1,5 @@
 
-# 🐉 Yong is a Dragon 🐉
+# ⚔️🛡️🐉Yong is a Dragon 🐉🛡️⚔️
 I am working towards becoming a front-end developer and am currently in the preparation stage.
 <br>
 
