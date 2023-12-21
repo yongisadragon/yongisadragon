@@ -1,7 +1,7 @@
 
 ## ⚔️🛡️🐉 yong==is==a===dragon  🐉🛡️⚔️
 
-I am working towards becoming a front-end developer and am currently in the preparation stage. 🔥🔥
+I am working towards becoming a front-end developer and am currently in the preparation stage. 🔥
 <br>
 
 ### 💡Front-end Stacks💡
